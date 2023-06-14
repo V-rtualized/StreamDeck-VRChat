@@ -1,6 +1,7 @@
 {
   "Description": "Track your friend's statuses.",
   "Name": "VRChat Integration",
+  "Category": "VRChat",
   "com.elgato.counter.action": {
     "Name": "Friend",
     "Tooltip": "Display a friend's status."
