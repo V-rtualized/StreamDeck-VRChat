@@ -2,26 +2,26 @@
   "Actions": [
     {
       "Icon": "actionIcon", 
-      "Name": "Counter", 
+      "Name": "Friend",
       "States": [
         {
           "Image": "actionDefaultImage",
-          "TitleAlignment": "middle", 
+          "TitleAlignment": "bottom",
           "FontSize": "16"
         }
       ], 
       "SupportedInMultiActions": false,
-      "Tooltip": "How many times did you get pwned today? Keep track with this counter.", 
-      "UUID": "com.elgato.counter.action"
+      "Tooltip": "Display a friend's status.",
+      "UUID": "dev.virtualized.vrchat.friend"
     }
   ], 
   "SDKVersion": 2,
-  "Author": "Elgato", 
+  "Author": "Virtualized",
   "CodePath": "code.html", 
-  "Description": "Track the number of times you press a key.", 
-  "Name": "Counter", 
+  "Description": "Track your friend's statuses.",
+  "Name": "VRChat Integration",
   "Icon": "pluginIcon", 
-  "URL": "https://www.elgato.com/gaming/stream-deck", 
+  "URL": "https://github.com/VirtualizedC/StreamDeck-VRChat",
   "Version": "1.4",
   "OS": [
     {
