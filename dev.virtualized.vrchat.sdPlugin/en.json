@@ -1,8 +1,8 @@
 {
-  "Description": "Track the number of times you press a key.",
-  "Name": "Counter",
+  "Description": "Track your friend's statuses.",
+  "Name": "VRChat Integration",
   "com.elgato.counter.action": {
-    "Name": "Counter", 
-    "Tooltip": "How many times did you get pwned today? Keep track with this counter."
+    "Name": "Friend",
+    "Tooltip": "Display a friend's status."
   }
 }
